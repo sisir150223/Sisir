@@ -1,0 +1,48 @@
+Index(['EMP_ID', 'EMPLOYEE_CODE', 'PREFIX', 'FIRSTNAME', 'MiddleName',
+       'LASTNAME', 'EMP_NAME', 'SUFFIX', 'EMP_STATUS', 'HIRE_DATE', 'ROLE',
+       'EMP_TYPE', 'DEPT_CODE', 'DEPT_NAME', 'MGR_ID', 'MGR_NAME',
+       'OPERATING_OFFICE_CODE', 'OPERATING_OFFICE_NAME', 'GL_OFFICE_CODE',
+       'GL_OFFICE_NAME', 'GL_COST_CENTER', 'ORIGINAL_HIRE_DATE',
+       'RECENT_HIRE_DATE', 'PAY_GRADE', 'WORK_EMAIL', 'WORK_PHONE',
+       'EMP_ADDRESS_LINE1', 'EMP_ADDRESS_LINE2', 'EMP_ADDRESS_LINE3', 'STATE',
+       'REGION', 'COUNTY', 'COUNTRY', 'POSTAL_CODE', 'ESGDW_INSERT_DATE',
+       'ESGDW_UPDATE_DATE', 'BATCH_ID', 'ESGDW_LOAD_USER'],
+      dtype='object')EMP_ID                     int64
+EMPLOYEE_CODE             object
+PREFIX                    object
+FIRSTNAME                 object
+MiddleName                object
+LASTNAME                  object
+EMP_NAME                  object
+SUFFIX                    object
+EMP_STATUS                object
+HIRE_DATE                 object
+ROLE                      object
+EMP_TYPE                  object
+DEPT_CODE                 object
+DEPT_NAME                 object
+MGR_ID                     int64
+MGR_NAME                 float64
+OPERATING_OFFICE_CODE     object
+OPERATING_OFFICE_NAME     object
+GL_OFFICE_CODE            object
+GL_OFFICE_NAME            object
+GL_COST_CENTER           float64
+ORIGINAL_HIRE_DATE        object
+RECENT_HIRE_DATE          object
+PAY_GRADE                 object
+WORK_EMAIL                 int64
+WORK_PHONE                object
+EMP_ADDRESS_LINE1         object
+EMP_ADDRESS_LINE2         object
+EMP_ADDRESS_LINE3         object
+STATE                     object
+REGION                    object
+COUNTY                    object
+COUNTRY                    int64
+POSTAL_CODE                int64
+ESGDW_INSERT_DATE        float64
+ESGDW_UPDATE_DATE        float64
+BATCH_ID                 float64
+ESGDW_LOAD_USER          float64
+dtype: object
